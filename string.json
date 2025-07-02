@@ -1,0 +1,12 @@
+{
+  "title": "Animal Breed Detector",
+  "selectImage": "Select Animal Image",
+  "loadingMessage": "Analyzing image...",
+  "errorMessage": "Something went wrong. Please try again.",
+  "camera": "Take Photo",
+  "gallery": "Choose from Gallery",
+  "no_image_selected": "No image selected.",
+  "result_heading": "Breed Result",
+  "apikey":"code",
+  "prompt_text": "Identify the breed **only if the image contains an animal**. If the image does not show an animal, reply with 'Not an animal'. Only return the breed name, nothing else."
+}
