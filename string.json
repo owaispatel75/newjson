@@ -7,7 +7,7 @@
   "gallery": "Choose from Gallery",
   "no_image_selected": "No image selected.",
   "result_heading": "Breed Result",
-  "apikey":"AIzaSyDc1QB5fhMP6QjNmm8RvbNrhEJTQlsfPQ0",
+  "apikey":"AIzaSyBoZUlfrSBHfuflDQfi2yzynpJ6o1eqF4M",
   "baseurl": "https://newjson.netlify.app/string.json",
   "prompt_text": "Identify the breed **only if the image contains an animal**. If the image does not show an animal, reply with 'Not an animal'. Only return the breed name, nothing else."
 }
